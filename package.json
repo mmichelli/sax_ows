@@ -1,0 +1,15 @@
+{
+  "author": "Mario Michelli <mario@edisonmenlo.no> (www.edisonmenlo.no)",
+  "name": "sax_ows",
+  "description": "saxotech OWS wrapper",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mmichelli/sax_ows.git"
+  },
+  "engines": {
+    "node": "~0.6.18"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
